@@ -3,6 +3,7 @@
 
 <div align="center">
   <img src="https://1000marcas.net/wp-content/uploads/2022/06/KPMG-Logo.png" width="150" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/IE_Business_School_logo.svg" width="150" height="150">
 </div>
 
 
