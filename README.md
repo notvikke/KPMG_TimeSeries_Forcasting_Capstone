@@ -1,6 +1,8 @@
 # KPMG_TimeSeries_Forcasting_Capstone
 
-![KPMG Logo](https://1000marcas.net/wp-content/uploads/2022/06/KPMG-Logo.png)
+
+<img src="https://1000marcas.net/wp-content/uploads/2022/06/KPMG-Logo.png" width="150" height="150">
+
 
 Introduction & Problem Context
 
